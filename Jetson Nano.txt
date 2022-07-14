@@ -1,0 +1,15 @@
+[ Jetson Nano ] - 2022. 07. 14
+
+1) SD 카드 파티션 초기화
+→ 설치 URL : sdcard.org (SD카드 파티션 초기화 시켜주는 프로그램)
+- 운영체제에 맞는 프로그램 다운 후 설치
+- 프로그램 실행 후 SD 카드 선택 후 Quick Format 클릭
+- Volume label은 Jetson Nano 입력 후 Format 진행
+
+2) Nvidia 접속
+- Jetpack 설치
+→ 설치 URL : https://developer.nvidia.com/embedded/jetpack
+
+3) balenaEtcher 설치
+- balenaEtcher 검색 후 설치
+→ 설치 URL : https://balenaetcher.ru/
